@@ -1,9 +1,6 @@
-<h1>Recriando botões de websites famosos 🚀</h1>
-
-<p>Esse é um projeto de aprendizado para melhorar minhas habilidades em CSS. O objetivo é recriar os botões de alguns dos websites mais famosos da internet.</p>
-
-<h2>Botões a serem recriados:</h2>
-
+<h1>Recreating Famous Website Buttons 🚀</h1>
+<p>This is a learning project to improve my CSS skills. The goal is to recreate the buttons of some of the most famous websites on the internet.</p>
+<h2>Buttons to be recreated:</h2>
 <ul>
   <li>Uber 🚗</li>
   <li>Amazon 📦</li>
@@ -11,41 +8,29 @@
   <li>Bootstrap 🌐</li>
   <li>LinkedIn 🔗</li>
 </ul>
-
-<h2>Como executar o projeto:</h2>
-
-<p>Para executar o projeto, siga as instruções abaixo:</p>
-
+<h2>How to run the project:</h2>
+<p>To run the project, follow the instructions below:</p>
 <ol>
-  <li>Clone o repositório em sua máquina</li>
-  <li>Acesse o diretório do projeto via terminal</li>
-  <li>Abra o arquivo index.html em seu navegador</li>
-  <li>Ou abra clicando <a href="https://mikaelnogueira.github.io/recreate-buttons/"><u>aqui</u></a></li>
+  <li>Clone the repository to your machine</li>
+  <li>Access the project directory via terminal</li>
+  <li>Open the index.html file in your browser</li>
+  <li>Or open it by clicking <a href="https://mikaelnogueira.github.io/recreate-buttons/"><u>here</u></a></li>
 </ol>
-
-<h2>Tecnologias utilizadas:</h2>
-
+<h2>Technologies used:</h2>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
 </ul>
-
-<h2>Autor:</h2>
-
-<p>Este projeto foi desenvolvido por Mikael Nogueira, como parte do portfólio de aprendizagem em CSS. E esse desafio foi proposto pelo <a href="https://www.freecodecamp.org/"><u>FreeCodeCamp</u></a> com o objetivo de ensinar HTML e CSS de forma simples e de qualidade.</p>
-
-<h2>Redes Sociais:</h2>
-
+<h2>Author:</h2>
+<p>This project was developed by Mikael Nogueira, as part of the CSS learning portfolio. This challenge was proposed by <a href="https://www.freecodecamp.org/"><u>FreeCodeCamp</u></a> with the objective of teaching HTML and CSS in a simple and high-quality way.</p>
+<h2>Social Networks:</h2>
 <ul>
-  <li>Instagram: @nog.mikael 📷</li>
-  <li>LinkedIn: @mikaelnogueira 🔗</li>
-  <li>GitHub: @mikaelnogueira 🐙</li>
+  <li>Instagram: <a href="https://www.instagram.com/nog.mikael/">@nog.mikael</a> 📷</li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/mikael-nogueira-413b45274/">@mikaelnogueira </a>🔗</li>
+  <li>GitHub: <a href="https://github.com/mikaelnogueira">@mikaelnogueira</a> 🐙</li>
 </ul>
-
-<h2>Licença:</h2>
-
-<p>Este projeto está licenciado sob a Licença <a href="https://opensource.org/license/mit/"><u>MIT</u></a>.</p>
-
+<h2>License:</h2>
+<p>This project is licensed under the <a href="https://opensource.org/license/mit/"><u>MIT</u></a> License.</p>
 <div style="text-align:center">
-  <p>Feito com ❤️ por Mikael Nogueira </p>
+  <p>Made with ❤️ by Mikael Nogueira </p>
 </div>
