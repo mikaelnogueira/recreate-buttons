@@ -1,0 +1,127 @@
+body {
+    margin: 0px;
+    font-family: arial;
+    
+  }
+  
+  /*Uber*/
+  
+  #Uber{
+    margin-left: 10px;
+  }
+  
+  #request {
+    background-color: black;
+    color: white;
+    border: none;
+    height: 40px;
+    width: 120px;
+    cursor: pointer;
+  }
+  
+  #hr {
+    background-color: gray;
+    margin-top: 30px;
+    width: absolute;
+    height: 5px;
+  }
+  
+  /*Amazon*/
+  
+  #Amazon {
+    margin-left: 200px;
+    margin-top: -120px;
+  }
+  
+  #cart {
+    background-color: rgb(255, 216, 20);
+    border: none;
+    height: 35px;
+    width: 190px;
+    border-radius: 20px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  /*Github*/
+  
+  #github {
+    margin-left: 450px;
+    margin-top: -115px;
+  }
+  
+  #sign {
+    color: white;
+    background-color: rgb(46, 164, 79);
+    border: none;
+    height: 40px;
+    width: 100px;
+    border-radius: 6px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  /*bootstrap*/
+  
+  #bootstrap {
+    margin-left: 10px;
+  }
+  
+  #get {
+    background-color: rgb(121, 82, 179);
+    border: none;
+    color: white;
+    height: 40px;
+    width: 110px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  #download {
+    margin-left: 7px;
+    background-color: white;
+    border-color: rgb(108, 117, 125);
+    border: 1px;
+    border-style: solid;
+    color: rgb(108, 117, 125);
+    height: 40px;
+    width: 110px;
+    border-radius: 4px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  /*LinkdIn*/
+  
+  #linkdin {
+    margin-left: 320px;
+    margin-top: -120px;
+  }
+  
+  #apply {
+    background-color: rgb(10, 102, 194);
+    border: none;
+    height: 40px;
+    width: 225px;
+    color: white;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  #save {
+    border: 1.9px;
+    margin-left: 10px;
+    background-color: white;
+    color: rgb(10, 102, 194);
+    font-weight: bold;
+    height: 40px;
+    width: 85px;
+    border-style: solid;
+    border-color:  rgb(10, 102, 194);
+    border-radius: 20px;
+    font-size: 17px;
+    cursor: pointer;
+  }
