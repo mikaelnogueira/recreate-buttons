@@ -22,7 +22,7 @@
   <li>CSS</li>
 </ul>
 <h2>Author:</h2>
-<p>This project was developed by Mikael Nogueira, as part of the CSS learning portfolio. This challenge was proposed by <a href="https://www.freecodecamp.org/"><u>FreeCodeCamp</u></a> with the objective of teaching HTML and CSS in a simple and high-quality way.</p>
+<p>This project was developed by Mikael Nogueira, as part of the CSS learning portfolio. This challenge was proposed by <a href="https://www.youtube.com/watch?v=G3e-cpL7ofc&list=WL&index=1"><u>SuperSimpleDev</u></a> with the objective of teaching HTML and CSS in a simple and high-quality way.</p>
 <h2>Social Networks:</h2>
 <ul>
   <li>Instagram: <a href="https://www.instagram.com/nog.mikael/">@nog.mikael</a> 📷</li>
