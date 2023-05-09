@@ -47,7 +47,7 @@ body {
     border-radius: 20px;
     font-weight: bold;
     cursor: pointer;
-    transition: background-color 600ms;
+    transition: background-color 500ms;
   }
   
   #cart:hover {
@@ -92,8 +92,13 @@ body {
     width: 110px;
     border-radius: 4px;
     cursor: pointer;
+    transition: background-color 500ms;
   }
-  
+
+  #get:hover {
+    background-color: rgb(95, 65, 141);
+  }
+
   #download {
     margin-left: 7px;
     background-color: white;
@@ -106,8 +111,14 @@ body {
     border-radius: 4px;
     font-weight: bold;
     cursor: pointer;
+    transition: background-color 500ms, color 500ms;
   }
   
+  #download:hover {
+    background-color: rgb(108, 117, 125);
+    color: white;
+  }
+
   /*LinkdIn*/
   
   #linkdin {
