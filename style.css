@@ -136,10 +136,15 @@ body {
     font-size: 14px;
     font-weight: bold;
     cursor: pointer;
+    transition: background-color 500ms;
   }
   
+  #apply:hover {
+    background-color:  rgb(11, 78, 146);
+  }
+
   #save {
-    border: 1.9px;
+    border-width: 1.9px;
     margin-left: 10px;
     background-color: white;
     color: rgb(10, 102, 194);
@@ -151,4 +156,9 @@ body {
     border-radius: 20px;
     font-size: 17px;
     cursor: pointer;
+  }
+
+  #save:hover {
+    border-width: 2px; 
+    background-color: rgba(10, 102, 194, 0.116);
   }
